@@ -1,4 +1,4 @@
-<h1 align="center">☁️ Cloud Computing Portfolio</h1>
+<h1 align="center">☁️ Cloud Computing</h1>
 
 <p align="center">
   <strong>A comprehensive showcase of cloud computing expertise, hands-on projects, and production-ready deployments</strong>
