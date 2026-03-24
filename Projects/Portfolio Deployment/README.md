@@ -52,7 +52,7 @@
 
 ### Architecture Diagram
 
-![Deployment Architecture](./deployment-diagram.png)
+![Deployment Architecture](./AWS%20Portfolio.png)
 
 ### Data Flow
 
